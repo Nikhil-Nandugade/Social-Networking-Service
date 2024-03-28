@@ -12,7 +12,6 @@ kmeans, Elbow Method
 -Model Evaluation
 -Performance Measures
 
-
 # Softeares and Libraries used
 
 -Python - Jupyter Notebook ver -3.11
